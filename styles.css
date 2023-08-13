@@ -1,0 +1,32 @@
+
+input{
+    margin-top: 20px;
+    padding: 10px;
+     font-size: 20px;
+     text-align: center;
+     
+
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px;
+     font-size: 20px;
+     margin-right: 50px;
+     text-align: center;
+     
+}
+ h1, h2{
+    text-align: center;
+ }
+
+ h2{
+    color: red;
+ }
+ .design{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+ }
